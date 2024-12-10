@@ -19,9 +19,6 @@ nuclei主要是针对暴露出0day或者1day，利用fofa测绘，然后进行�
 * fscan
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/cf4c74d2-c533-403a-94a1-4424baf3c3a6">
 * swagger scan
-![image](https://github.com/user-attachments/assets/c069b07a-b499-4b6c-90a3-63891e662c0c)
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/c069b07a-b499-4b6c-90a3-63891e662c0c">
 * 项目管理
-![image](https://github.com/user-attachments/assets/cd3416ed-73f7-47d4-95d7-386a3f745cbe)
-
-
-
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/cd3416ed-73f7-47d4-95d7-386a3f745cbe">
