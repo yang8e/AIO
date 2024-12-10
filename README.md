@@ -13,6 +13,13 @@
 对一个公司进行渗透，利用fofa扫描出资产列表-〉利用rustscan全端口扫描-〉得到资产合集，利用fscan对常见的漏洞扫描-〉得到结果
 nuclei主要是针对暴露出0day或者1day，利用fofa测绘，然后进行扫描利用。
 ```
+## 注意事项
+```
+1、需要在config.properties中添加fofa api认证信息
+2、rustscan 是需要在远程服务器中部署的，ssh信息需要在config.properties添加
+3、nuclei yaml文件在nuclei/POC 中，需要在config.properties添加与fofa banner对应关系即可使用
+```
+
 ## 相关截图
 * fofa search
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b2400ddb-53a4-44e0-ba31-a3be74c0e22d">
